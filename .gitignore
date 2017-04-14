@@ -1,6 +1,8 @@
 /vendor
 /node_modules
 /public/storage
+/database/seeds/
 Homestead.yaml
 Homestead.json
 .env
+.idea
