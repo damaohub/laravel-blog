@@ -17,7 +17,7 @@ Route::group(['namespace'=>'Home'],function(){
     Route::get('/','IndexController@index');
     //Route::post('home/pagenum','IndexController@pageNum');
     Route::get('/a/{aid}','IndexController@art');
-    Route::get('/a','IndexController@arts');
+    Route::get('/a','IndexController@artList');
     Route::get('/cate/{cate_id}','IndexController@cate');
 });
 

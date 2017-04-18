@@ -21,6 +21,7 @@
             @endforeach
         </div>
     </div>
+
     <div class="panel panel-default">
         <div class="panel-heading">
             <h3 class="panel-title">分类</h3>
@@ -36,17 +37,19 @@
             </div>
         </div>
     </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h3 class="panel-title">标签云</h3>
-        </div>
-        <div class="panel-body">
 
-            <div class="tags">
-                @foreach($tags as $k=>$v)
-                    <a href="" class="btn btn-info" data-toggle="tooltip" data-placement="top" title="{{'此标签下有'.\App\Http\Model\Article::where('art_tag','=',$v)->count().'篇文章'}}">{{$v}}</a>
-                @endforeach
-            </div>
-        </div>
-    </div>
+    {{--<div class="panel panel-default">--}}
+        {{--<div class="panel-heading">--}}
+            {{--<h3 class="panel-title">标签云</h3>--}}
+        {{--</div>--}}
+        {{--<div class="panel-body">--}}
+
+            {{--<div class="tags">--}}
+                {{--@foreach($tags as $k=>$v)--}}
+                    {{--<a href="" class="btn btn-info" data-toggle="tooltip" data-placement="top" title="{{'此标签下有'.\App\Http\Model\Article::where('art_tag','=',$v)->count().'篇文章'}}">{{$v}}</a>--}}
+                {{--@endforeach--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</div>--}}
+
 </div>

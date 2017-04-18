@@ -39,17 +39,19 @@ class IndexController extends Controller
         return view('home.art',compact('field'));
     }
 //文章索引页
-    public function arts()
+    public function artList()
     {
         $allArts = Article::paginate(15);
         return view('home.lists',compact('allArts'));
     }
-
+//标签聚合 貌似需要建个新表
     public function tag()
     {
-        return view('home.tag',compact());
+
+       // return view('home.tag',compact());
     }
 
+//分类聚合
     public function cate($cate_id)
     {
         $data = Article::where('cate_id','=',$cate_id)->orderBy('art_time','desc')->paginate(4);
