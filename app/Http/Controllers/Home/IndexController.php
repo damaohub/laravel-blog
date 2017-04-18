@@ -44,4 +44,16 @@ class IndexController extends Controller
         $allArts = Article::paginate(15);
         return view('home.lists',compact('allArts'));
     }
+
+    public function tag()
+    {
+        return view('home.tag',compact());
+    }
+
+    public function cate($cate_id)
+    {
+        $data = Article::where('cate_id','=',$cate_id)->orderBy('art_time','desc')->paginate(4);
+        $field =  Category::findOrFail($cate_id);
+        return view('home.cate',compact('field','data'));
+    }
 }

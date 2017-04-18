@@ -28,7 +28,7 @@
         <div class="panel-body">
             <div class="list-group">
                 @foreach($cates as $k=>$v)
-                    <a href="#" class="list-group-item">
+                    <a href="{{url('cate/'.$v->cate_id)}}" class="list-group-item">
                         <span class="badge">{{\App\Http\Model\Article::where('cate_id','=',$v->cate_id)->count()}}</span>
                         {{$v->cate_name}}
                     </a>
