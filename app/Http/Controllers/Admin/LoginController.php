@@ -4,24 +4,32 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Model\User;
 use Illuminate\Http\Request;
-
 use App\Http\Requests;
 use Illuminate\Support\Facades\Crypt;
 use Illuminate\Support\Facades\Input;
-
-require_once 'resources/org/code/Code.class.php';
+use Illuminate\Support\Facades\Validator;
 
 class LoginController extends CommonController{
     public function login()
     {
         if($input = Input::all()){
-            $code = new \Code;//去底层去找
-            $_code = $code->get();
 
-            if(strtoupper($input['code'])!=$_code){
-                return back()->with('errormsg','验证码错误');
-
+            $rules = ['captcha' => 'required|captcha'];
+            //dd($input['code']);
+            $validator = Validator::make([$input['code']], $rules);
+            if ($validator->fails())
+            {
+                echo '<p style="color: #ff0000;">Incorrect!</p>';
             }
+            else
+            {
+                echo '<p style="color: #00ff30;">Matched :)</p>';
+            }
+
+//            if(strtoupper($input['code'])!=$_code){
+//                return back()->with('errormsg','验证码错误');
+//
+//            }
 
             $user = User::first();
             if($user->user_name != $input['user_name']||Crypt::decrypt($user->user_pass) != $input['user_pass']){
@@ -46,8 +54,8 @@ class LoginController extends CommonController{
 
     public function code()
     {
-        $code = new \Code;//去底层去找
-        $_code = $code->make();
+
+       return captcha();
     }
 
 //    public function getcode()

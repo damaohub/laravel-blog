@@ -29,6 +29,7 @@ Route::group(['middleware'=>['admin.login'],'prefix'=>'admin','namespace'=>'Admi
     Route::get('index','IndexController@index');
     Route::get('info','IndexController@info');
     Route::get('quit','LoginController@quit');
+
     Route::any('pass','IndexController@pass');
     Route::post('cate/changeOrder','CategoryController@changeOrder');
     Route::resource('category','CategoryController');
@@ -50,5 +51,6 @@ Route::group(['middleware'=>['admin.login'],'prefix'=>'admin','namespace'=>'Admi
     Route::any('upload','CommonController@upload');
 });
 
+//Route::get('crypt','IndexController@crypt');
 
 //});
