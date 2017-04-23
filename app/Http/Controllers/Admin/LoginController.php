@@ -36,7 +36,7 @@ class LoginController extends CommonController{
                 return back()->with('errormsg','用户名或者密码错误');
             }
             session(['user'=>$user]);
-            return redirect('admin/index');
+            return redirect()->route('index');
 
         }else{
 

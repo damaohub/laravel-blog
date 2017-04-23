@@ -26,6 +26,7 @@ Route::group(['namespace'=>'Home'],function(){
     Route::get('admin/code','Admin\LoginController@code');
 
 Route::group(['middleware'=>['admin.login'],'prefix'=>'admin','namespace'=>'Admin'],function(){
+    Route::get('/',['as'=>'index', 'uses'=>'IndexController@index']);
     Route::get('index','IndexController@index');
     Route::get('info','IndexController@info');
     Route::get('quit','LoginController@quit');

@@ -4,348 +4,14 @@
     <list default="true" id="41a62b50-3dc7-4c65-b4e3-63b0b7abf9d6" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.php" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/login.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/code/Code.class.php" afterPath="$PROJECT_DIR$/public/org/code/Code.class.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/code/consola.ttf" afterPath="$PROJECT_DIR$/public/org/code/consola.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/layer/layer.js" afterPath="$PROJECT_DIR$/public/org/layer/layer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/layer/mobile/layer.js" afterPath="$PROJECT_DIR$/public/org/layer/mobile/layer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/layer/mobile/need/layer.css" afterPath="$PROJECT_DIR$/public/org/layer/mobile/need/layer.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/layer/skin/default/icon-ext.png" afterPath="$PROJECT_DIR$/public/org/layer/skin/default/icon-ext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/layer/skin/default/icon.png" afterPath="$PROJECT_DIR$/public/org/layer/skin/default/icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/layer/skin/default/layer.css" afterPath="$PROJECT_DIR$/public/org/layer/skin/default/layer.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/layer/skin/default/loading-0.gif" afterPath="$PROJECT_DIR$/public/org/layer/skin/default/loading-0.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/layer/skin/default/loading-1.gif" afterPath="$PROJECT_DIR$/public/org/layer/skin/default/loading-1.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/layer/skin/default/loading-2.gif" afterPath="$PROJECT_DIR$/public/org/layer/skin/default/loading-2.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/anchor/anchor.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/anchor/anchor.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/attachment.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/attachment.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/attachment.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/attachment.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/attachment.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/attachment.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/alignicon.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/alignicon.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/alignicon.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/alignicon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/bg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/file-icons.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/file-icons.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/file-icons.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/file-icons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/icons.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/icons.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/icons.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/icons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/image.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/image.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/progress.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/progress.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/success.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/success.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/attachment/images/success.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/success.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/background/background.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/background/background.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/background/background.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/background/background.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/background/background.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/background/background.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/background/images/bg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/images/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/background/images/success.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/images/success.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/chart.config.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/chart.config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/charts.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/charts.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/charts.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/charts.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/charts.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/charts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/images/charts0.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/images/charts0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/images/charts1.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/images/charts1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/images/charts2.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/images/charts2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/images/charts3.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/images/charts3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/images/charts4.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/images/charts4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/charts/images/charts5.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/charts/images/charts5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/emotion.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/emotion.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/emotion.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/emotion.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/emotion.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/emotion.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/images/0.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/images/0.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/images/bface.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/images/bface.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/images/cface.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/images/cface.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/images/fface.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/images/fface.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/images/jxface2.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/images/jxface2.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/neweditor-tab-bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/images/tface.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/images/tface.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/images/wface.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/images/wface.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/emotion/images/yface.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/images/yface.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/gmap/gmap.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/gmap/gmap.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/help/help.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/help/help.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/help/help.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/help/help.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/help/help.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/help/help.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/image.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/image.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/image.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/image.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/image.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/image.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/images/alignicon.jpg" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/images/alignicon.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/images/bg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/background/images/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/images/icons.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/images/icons.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/images/icons.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/images/icons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/images/image.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/images/image.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/images/progress.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/images/progress.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/images/success.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/image/images/success.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/image/images/success.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/background/images/success.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/insertframe/insertframe.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/insertframe/insertframe.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/internal.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/internal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/link/link.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/link/link.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/map/map.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/map/map.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/map/show.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/map/show.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/music/music.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/music/music.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/music/music.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/music/music.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/music/music.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/music/music.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/preview/preview.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/preview/preview.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/addimg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/addimg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/brush.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/brush.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/delimg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/delimg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/delimgH.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/delimgH.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/empty.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/empty.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/emptyH.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/emptyH.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/eraser.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/eraser.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/redo.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/redo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/redoH.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/redoH.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/scale.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/scale.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/scaleH.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/scaleH.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/size.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/size.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/undo.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/undo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/images/undoH.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/images/undoH.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/scrawl.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/scrawl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/scrawl.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/scrawl.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/scrawl/scrawl.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/scrawl/scrawl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/searchreplace/searchreplace.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/searchreplace/searchreplace.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/searchreplace/searchreplace.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/searchreplace/searchreplace.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/snapscreen/snapscreen.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/snapscreen/snapscreen.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/spechars/spechars.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/spechars/spechars.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/spechars/spechars.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/spechars/spechars.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/table/dragicon.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/table/dragicon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/table/edittable.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/table/edittable.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/table/edittable.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/table/edittable.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/table/edittable.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/table/edittable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/table/edittd.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/table/edittd.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/table/edittip.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/table/edittip.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/config.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/images/bg.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/images/bg.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/images/pre0.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/images/pre0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/images/pre1.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/images/pre1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/images/pre2.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/images/pre2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/images/pre3.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/images/pre3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/images/pre4.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/images/pre4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/template.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/template.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/template.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/template.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/template/template.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/template/template.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/bg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/center_focus.jpg" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/center_focus.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/file-icons.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/file-icons.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/file-icons.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/file-icons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/icons.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/icons.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/icons.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/icons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/image.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/image.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/left_focus.jpg" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/left_focus.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/none_focus.jpg" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/none_focus.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/progress.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/progress.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/right_focus.jpg" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/images/right_focus.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/success.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/success.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/images/success.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/attachment/images/success.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/video.css" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/video.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/video.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/video.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/video/video.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/video/video.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/webapp/webapp.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/webapp/webapp.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/wordimage/imageUploader.swf" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/wordimage/imageUploader.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/wordimage/tangram.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/wordimage/tangram.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/wordimage/wordimage.html" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/wordimage/wordimage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/dialogs/wordimage/wordimage.js" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/wordimage/wordimage.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/index.html" afterPath="$PROJECT_DIR$/public/org/ueditor/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/en.js" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/en.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/addimage.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/addimage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/alldeletebtnhoverskin.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/alldeletebtnhoverskin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/alldeletebtnupskin.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/alldeletebtnupskin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/background.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/background.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/button.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/button.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/copy.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/copy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/deletedisable.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/deletedisable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/deleteenable.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/deleteenable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/listbackground.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/listbackground.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/localimage.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/localimage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/music.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/music.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/rotateleftdisable.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/rotateleftdisable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/rotateleftenable.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/rotateleftenable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/rotaterightdisable.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/rotaterightdisable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/rotaterightenable.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/rotaterightenable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/en/images/upload.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/en/images/upload.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/zh-cn/images/copy.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/zh-cn/images/copy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/zh-cn/images/localimage.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/zh-cn/images/localimage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/zh-cn/images/music.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/zh-cn/images/music.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/zh-cn/images/upload.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/upload.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/lang/zh-cn/zh-cn.js" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/zh-cn/zh-cn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/php/Uploader.class.php" afterPath="$PROJECT_DIR$/public/org/ueditor/php/Uploader.class.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/php/action_crawler.php" afterPath="$PROJECT_DIR$/public/org/ueditor/php/action_crawler.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/php/action_list.php" afterPath="$PROJECT_DIR$/public/org/ueditor/php/action_list.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/php/action_upload.php" afterPath="$PROJECT_DIR$/public/org/ueditor/php/action_upload.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/php/config.json" afterPath="$PROJECT_DIR$/public/org/ueditor/php/config.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/php/controller.php" afterPath="$PROJECT_DIR$/public/org/ueditor/php/controller.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/css/ueditor.css" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/css/ueditor.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/css/ueditor.min.css" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/css/ueditor.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/dialogbase.css" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/dialogbase.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/anchor.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/anchor.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/arrow.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/arrow_down.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/arrow_down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/arrow_up.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/arrow_up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/button-bg.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/button-bg.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/cancelbutton.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/cancelbutton.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/charts.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/charts.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/cursor_h.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/cursor_h.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/cursor_h.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/cursor_h.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/cursor_v.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/cursor_v.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/cursor_v.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/cursor_v.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/dialog-title-bg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/dialog-title-bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/filescan.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/filescan.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/highlighted.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/highlighted.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/icons-all.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/icons-all.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/icons.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/icons.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/icons.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/icons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/loaderror.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/loaderror.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/loading.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/loading.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/lock.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/lock.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/neweditor-tab-bg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/pagebreak.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/pagebreak.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/scale.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/scale.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/sortable.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/sortable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/spacer.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/spacer.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/sparator_v.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/sparator_v.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/table-cell-align.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/table-cell-align.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/tangram-colorpicker.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/tangram-colorpicker.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/toolbar_bg.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/toolbar_bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/unhighlighted.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/unhighlighted.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/upload.png" afterPath="$PROJECT_DIR$/public/org/ueditor/lang/zh-cn/images/upload.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/videologo.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/videologo.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/word.gif" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/word.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/default/images/wordpaste.png" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/default/images/wordpaste.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/themes/iframe.css" afterPath="$PROJECT_DIR$/public/org/ueditor/themes/iframe.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/SyntaxHighlighter/shCore.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/SyntaxHighlighter/shCore.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/codemirror/codemirror.css" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/codemirror/codemirror.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/codemirror/codemirror.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/codemirror/codemirror.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/adapters/mootools-adapter.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/adapters/mootools-adapter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/adapters/prototype-adapter.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/adapters/prototype-adapter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/adapters/standalone-framework.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/adapters/standalone-framework.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/highcharts-more.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/highcharts-more.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/highcharts-more.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/highcharts-more.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/highcharts.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/highcharts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/highcharts.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/highcharts.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/annotations.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/annotations.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/annotations.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/annotations.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/canvas-tools.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/canvas-tools.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/canvas-tools.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/canvas-tools.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/data.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/data.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/data.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/drilldown.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/drilldown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/drilldown.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/drilldown.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/exporting.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/exporting.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/exporting.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/exporting.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/funnel.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/funnel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/funnel.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/funnel.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/heatmap.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/heatmap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/heatmap.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/heatmap.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/map.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/map.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/map.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/map.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/no-data-to-display.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/no-data-to-display.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/themes/dark-blue.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/themes/dark-blue.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/themes/dark-green.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/themes/dark-green.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/themes/gray.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/themes/gray.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/themes/grid.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/themes/grid.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/highcharts/themes/skies.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/highcharts/themes/skies.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/jquery-1.10.2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/jquery-1.10.2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/jquery-1.10.2.min.map" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/jquery-1.10.2.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/video-js/font/vjs.eot" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/video-js/font/vjs.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/video-js/font/vjs.svg" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/video-js/font/vjs.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/video-js/font/vjs.ttf" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/video-js/font/vjs.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/video-js/font/vjs.woff" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/video-js/font/vjs.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/video-js/video-js.css" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/video-js/video-js.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/video-js/video-js.min.css" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/video-js/video-js.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/video-js/video-js.swf" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/video-js/video-js.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/video-js/video.dev.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/video-js/video.dev.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/video-js/video.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/video-js/video.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/Uploader.swf" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/Uploader.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.css" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.custom.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.custom.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.custom.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.flashonly.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.flashonly.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.flashonly.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.flashonly.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.html5only.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.html5only.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.html5only.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.html5only.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.withoutimage.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.withoutimage.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/xss.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/xss.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/zeroclipboard/ZeroClipboard.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/zeroclipboard/ZeroClipboard.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" afterPath="$PROJECT_DIR$/public/org/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/ueditor.all.js" afterPath="$PROJECT_DIR$/public/org/ueditor/ueditor.all.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/ueditor.all.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/ueditor.all.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/ueditor.config.js" afterPath="$PROJECT_DIR$/public/org/ueditor/ueditor.config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/ueditor.parse.js" afterPath="$PROJECT_DIR$/public/org/ueditor/ueditor.parse.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/ueditor/ueditor.parse.min.js" afterPath="$PROJECT_DIR$/public/org/ueditor/ueditor.parse.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/Change Log.txt" afterPath="$PROJECT_DIR$/public/org/uploadify/Change Log.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/check-exists.php" afterPath="$PROJECT_DIR$/public/org/uploadify/check-exists.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/img/uploadify-cancel.png" afterPath="$PROJECT_DIR$/public/org/uploadify/img/uploadify-cancel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/index.php" afterPath="$PROJECT_DIR$/public/org/uploadify/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/jquery.uploadify.js" afterPath="$PROJECT_DIR$/public/org/uploadify/jquery.uploadify.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/jquery.uploadify.min.js" afterPath="$PROJECT_DIR$/public/org/uploadify/jquery.uploadify.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/license.txt" afterPath="$PROJECT_DIR$/public/org/uploadify/license.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/uploadify.css" afterPath="$PROJECT_DIR$/public/org/uploadify/uploadify.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/uploadify.php" afterPath="$PROJECT_DIR$/public/org/uploadify/uploadify.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/org/uploadify/uploadify.swf" afterPath="$PROJECT_DIR$/public/org/uploadify/uploadify.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/info.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/info.blade.php" />
     </list>
-    <list id="76bccc80-7b5e-4301-8683-c4ea30444ef8" name="New changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/logo.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/logo.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/logo.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/styles/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/aside.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/bk.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/fonts/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/js/jquery.twbsPagination.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/js/jquery.twbsPagination.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/styles/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/styles/public.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/styles/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home/tag.blade.php" />
-    </list>
+    <list id="76bccc80-7b5e-4301-8683-c4ea30444ef8" name="New changelist" comment="" />
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/resources/views/home/styles/reset.css" ignored="false" />
-    <file path="$PROJECT_DIR$/resources/views/home/tag.blade.php" ignored="false" />
-    <file path="$PROJECT_DIR$/resources/views/home/js/jquery.twbsPagination.js" ignored="false" />
-    <file path="$PROJECT_DIR$/resources/views/home/styles/public.css" ignored="false" />
-    <file path="$PROJECT_DIR$/resources/views/home/js/main.js" ignored="false" />
-    <file path="$PROJECT_DIR$/resources/views/home/styles/font-awesome.min.css" ignored="false" />
-    <file path="$PROJECT_DIR$/resources/views/home/aside.blade.php" ignored="false" />
-    <file path="$PROJECT_DIR$/resources/views/home/bk.html" ignored="false" />
-    <file path="$PROJECT_DIR$/resources/views/home/js/jquery.twbsPagination.min.js" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,71 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017_04_23_220339_create_user_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_23_220339_create_user_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.2">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017_04_23_221544_create_category_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_23_221544_create_category_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.0">
-              <caret line="25" column="11" selection-start-line="14" selection-start-column="7" selection-end-line="25" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017_04_23_223651_create_articel_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_23_223651_create_articel_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4333334">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ModelFactory.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/factories/ModelFactory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017_04_02_113147_create_config_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_02_113147_create_config_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.5">
-              <caret line="25" column="11" selection-start-line="14" selection-start-column="7" selection-end-line="25" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017_03_29_204228_create_links_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2017_03_29_204228_create_links_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.2">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017_04_01_203659_create_navs_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_01_203659_create_navs_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.4">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -452,8 +58,42 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.73170733">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.46696034">
+              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/login.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.333333">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.833333">
+              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+              <folding>
+                <element signature="e#46#70#0#PHP" expanded="true" />
+                <marker date="1492964000758" expanded="true" signature="601:616" placeholder="..." />
+                <marker date="1492964000758" expanded="true" signature="712:727" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/IndexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -462,8 +102,38 @@
       <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.0">
+            <state vertical-scroll-proportion="-10.133333">
               <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.8">
+              <caret line="9" column="78" selection-start-line="8" selection-start-column="16" selection-end-line="9" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/info.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.2">
+              <caret line="6" column="89" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.7">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -488,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/admin/config/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/links/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/navs/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/navs/add.blade.php" />
@@ -533,11 +202,12 @@
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/login.blade.php" />
         <option value="$PROJECT_DIR$/public/index.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
         <option value="$PROJECT_DIR$/database/migrations/2017_04_23_220339_create_user_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2017_04_23_221544_create_category_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2017_04_23_223651_create_articel_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/info.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
       </list>
     </option>
@@ -559,10 +229,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-128" />
-    <option name="y" value="247" />
+    <option name="x" value="-62" />
+    <option name="y" value="82" />
     <option name="width" value="1332" />
-    <option name="height" value="643" />
+    <option name="height" value="646" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="添加" />
@@ -589,6 +259,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -617,7 +289,69 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -653,10 +387,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -669,19 +449,19 @@
     <property name="js-jscs-nodeInterpreter" value="D:\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\xampp\htdocs\blog\public" />
-      <recent name="D:\xampp\htdocs\blog\database\migrations" />
-      <recent name="D:\xampp\htdocs\blog\database" />
-      <recent name="D:\xampp\htdocs\blog\resources\org\uploadify\img" />
-      <recent name="D:\xampp\htdocs\blog\resources\views\admin\article" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\xampp\htdocs\blog\resources\views\home" />
       <recent name="D:\xampp\htdocs\blog\resources\assets\js\vendor" />
       <recent name="D:\xampp\htdocs\blog\resources\assets\fonts" />
       <recent name="D:\xampp\htdocs\blog\resources\assets\js" />
       <recent name="D:\xampp\htdocs\blog\resources\views\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\blog\public" />
+      <recent name="D:\xampp\htdocs\blog\database\migrations" />
+      <recent name="D:\xampp\htdocs\blog\database" />
+      <recent name="D:\xampp\htdocs\blog\resources\org\uploadify\img" />
+      <recent name="D:\xampp\htdocs\blog\resources\views\admin\article" />
     </key>
   </component>
   <component name="RunManager">
@@ -729,18 +509,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-128" y="247" width="1332" height="643" extended-state="1" />
+    <frame x="-62" y="82" width="1332" height="646" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25419846" sideWeight="0.52117264" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21619497" sideWeight="0.47882736" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21933962" sideWeight="0.47882736" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.71057516" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25419846" sideWeight="0.52427185" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.4893617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="353" y="315" width="713" height="269" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.4893617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="333" y="241" width="713" height="269" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -796,30 +576,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/._font-awesome@4.7.0@font-awesome/scss/_path.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6054054">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home/art.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.9">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/base.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.040618956">
-          <caret line="0" column="112" selection-start-line="0" selection-start-column="112" selection-end-line="0" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -877,13 +633,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/js/base.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_badges.scss">
@@ -991,18 +747,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="18" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1010,7 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,7 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,15 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-72.8">
           <caret line="205" column="0" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/login.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,9 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35220125">
           <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#7#136#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1081,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1089,41 +821,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.3">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding>
-            <element signature="e#46#70#0#PHP" expanded="true" />
-            <marker date="1492955692167" expanded="true" signature="601:616" placeholder="..." />
-            <marker date="1492955692167" expanded="true" signature="712:727" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.0">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_01_203659_create_navs_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.4">
+        <state vertical-scroll-proportion="0.0">
           <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
           <folding />
         </state>
@@ -1131,23 +834,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2017_03_29_204228_create_links_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.2">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_23_220339_create_user_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.2">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_02_113147_create_config_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.5">
+        <state vertical-scroll-proportion="0.0">
           <caret line="25" column="11" selection-start-line="14" selection-start-column="7" selection-end-line="25" selection-end-column="11" />
           <folding />
         </state>
@@ -1155,7 +850,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_23_221544_create_category_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="25" column="11" selection-start-line="14" selection-start-column="7" selection-end-line="25" selection-end-column="11" />
           <folding />
         </state>
@@ -1171,16 +866,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_23_223651_create_articel_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4333334">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2017_04_23_220339_create_user_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06873614">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.8">
+          <caret line="9" column="78" selection-start-line="8" selection-start-column="16" selection-end-line="9" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/info.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.2">
+          <caret line="6" column="89" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.133333">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.333333">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.833333">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding>
+            <element signature="e#46#70#0#PHP" expanded="true" />
+            <marker date="1492964000758" expanded="true" signature="601:616" placeholder="..." />
+            <marker date="1492964000758" expanded="true" signature="712:727" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73170733">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.46696034">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
           <folding />
         </state>
       </provider>
