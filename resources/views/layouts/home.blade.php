@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
     <title>@yield('title')damaohub</title>
+    <meta name="keywords" content="@yield('keywords')">
+    <meta name="description" content="@yield('description')">
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
     <meta name="_token" content="{{ csrf_token() }}"/>
     <link rel="shortcut icon" type="image/ico" href="{{asset('favicon.ico')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/base.css')}}">
-    <link rel="stylesheet" href="{{elixir('assets/css/app.css')}}">
-    <script type="text/javascript" src="{{asset('assets/js/base.js')}}"></script>
-    <script type="text/javascript" src="{{elixir('assets/js/app.js')}}"></script>
+    <link rel="stylesheet" href="{{asset('assets/css/blog.min.css')}}">
+    <script type="text/javascript" src="{{asset('assets/js/blog.min.js')}}"></script>
+
 </head>
 <body>
 

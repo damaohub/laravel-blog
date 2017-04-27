@@ -13,6 +13,7 @@
 
 //Route::group(['middleware'=>['']],function(){
     //还真是网上所说！web中间件从laravel5.2.27版本以后默认全局加载，不需要自己手动载入，如果自己子手动重复载入，会导致session无法加载的情况。
+
 Route::group(['namespace'=>'Home'],function(){
     Route::get('/','IndexController@index');
     //Route::post('home/pagenum','IndexController@pageNum');
@@ -51,6 +52,12 @@ Route::group(['middleware'=>['admin.login'],'prefix'=>'admin','namespace'=>'Admi
 
     Route::any('upload','CommonController@upload');
 });
+
+
+Route::group(['prefix'=>'shop','namespace'=>'Shop'],function(){
+    Route::get('/','View\LoginController@index');
+});
+
 
 //Route::get('crypt','IndexController@crypt');
 
